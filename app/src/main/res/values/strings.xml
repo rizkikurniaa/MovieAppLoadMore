@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Movie Apps (Load more)</string>
+    <string name="image_view_poster_movie">image view poster movie</string>
+    <string name="title_movie">Title Movie</string>
+    <string name="release_date_value">Release Date Value</string>
+    <string name="overview">Overview</string>
+    <string name="overview_value">Overview Value</string>
+</resources>
