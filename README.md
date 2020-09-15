@@ -1,6 +1,6 @@
 # Movie Apps (Load more)
 
-<img src="https://github.com/rizkikurniaa/MovieAppLoadMore/preview.png" width="250">
+<img src="https://github.com/rizkikurniaa/MovieAppLoadMore/blob/master/preview.png" width="250">
 
 Implemented Load more to Movie DB App, built with Android studio using kotlin
 
